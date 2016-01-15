@@ -1,7 +1,7 @@
-﻿/**
+/**
  * Ion.CheckRadio
  * version 2.0.0 Build 42
- * © Denis Ineshin, 2015
+ * � Denis Ineshin, 2015
  *
  * Project page:    http://ionden.com/a/plugins/ion.CheckRadio/en.html
  * GitHub page:     https://github.com/IonDen/ion.CheckRadio
